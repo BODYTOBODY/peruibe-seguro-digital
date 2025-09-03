@@ -51,21 +51,21 @@ const Hero = () => {
         </div>
         
         <div className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-          <div>
-            <div className="text-3xl font-bold">+15</div>
-            <div className="text-sm text-primary-foreground/80">Anos de Experiência</div>
+          <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4">
+            <div className="text-3xl font-bold text-primary">+15</div>
+            <div className="text-sm text-primary/80">Anos de Experiência</div>
           </div>
-          <div>
-            <div className="text-3xl font-bold">5000+</div>
-            <div className="text-sm text-primary-foreground/80">Clientes Atendidos</div>
+          <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4">
+            <div className="text-3xl font-bold text-primary">5000+</div>
+            <div className="text-sm text-primary/80">Clientes Atendidos</div>
           </div>
-          <div>
-            <div className="text-3xl font-bold">24h</div>
-            <div className="text-sm text-primary-foreground/80">Suporte Disponível</div>
+          <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4">
+            <div className="text-3xl font-bold text-primary">24h</div>
+            <div className="text-sm text-primary/80">Suporte Disponível</div>
           </div>
-          <div>
-            <div className="text-3xl font-bold">100%</div>
-            <div className="text-sm text-primary-foreground/80">Satisfação</div>
+          <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4">
+            <div className="text-3xl font-bold text-primary">100%</div>
+            <div className="text-sm text-primary/80">Satisfação</div>
           </div>
         </div>
       </div>
