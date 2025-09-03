@@ -40,7 +40,7 @@ const Hero = () => {
           <Button 
             size="lg" 
             variant="outline"
-            className="border-white/30 text-white hover:bg-white/10 font-semibold px-8 py-3 text-lg"
+            className="border-white/30 text-primary bg-white/95 hover:bg-white font-semibold px-8 py-3 text-lg"
             asChild
           >
             <a href="https://wa.me/5513997490715" target="_blank" rel="noopener noreferrer">
